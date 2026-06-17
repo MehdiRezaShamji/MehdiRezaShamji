@@ -23,6 +23,7 @@ Quil is my most complete project. A personal AI agent built on **n8n (self-hoste
 - 🌅 Sends a morning briefing with emails, events, and expenses
 
 `n8n` · `Groq API` · `LLaMA 3.3 70B` · `Gemini 1.5 Flash` · `Gmail API` · `Google Calendar API` · `Google Sheets API` · `Regex`
+[Quil — AI Butler](https://github.com/MehdiRezaShamji/quil-ai-butler)
 
 ---
 
@@ -34,6 +35,7 @@ A CLI tool that chains two APIs: **Tavily** for live web search and **Groq (LLaM
 First project where I combined web search with an LLM — understanding how to pass search results as context to a language model was the core learning.
 
 `Python` · `Groq API` · `Tavily API` · `LLaMA 3.3 70B` · `python-dotenv`
+[Research Analyst Agent](https://github.com/MehdiRezaShamji/research-analyst-agent)
 
 ---
 
@@ -45,6 +47,7 @@ A Python CLI tool that hits the GitHub REST API and returns name, bio, public re
 Built to solidify API fundamentals: HTTP requests, JSON parsing, error handling, and graceful failure.
 
 `Python` · `GitHub REST API` · `requests`
+[GitHub User Finder](https://github.com/MehdiRezaShamji/github-user-finder)
 
 ---
 
